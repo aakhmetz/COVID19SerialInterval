@@ -14,5 +14,5 @@ Our notebooks repository can be divided on two groups:
 
 
 ---------
-[**NB**] Words of caution: Thank you for your interest to our work. We would like to note that our code is not supposed to work out of box, because the links used in the notebooks were user-specific, and our main intent was to show the relevance of the methods used in our paper.
+**Thank you for your interest to our work** Few words of caution: We would like to note that our code is not supposed to work out of box, because the links used in the notebooks were user-specific, and our main intent was to show the relevance of the methods used in our paper.
  
