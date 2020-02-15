@@ -1,6 +1,6 @@
 # Estimation of the serial interval of novel coronavirus (COVID-19) infections 
 
-Supporting materials for Nishiura et al "Serial interval of novel coronavirus (COVID-19) infections" Submitted 2020
+Supporting materials for Nishiura H, Linton NM, Akhmetzhanov AR 2020 "Serial interval of novel coronavirus (COVID-19) infections" *Submitted*
 
 Our notebooks repository can be divided on two groups:
 
@@ -16,6 +16,7 @@ Our notebooks repository can be divided on two groups:
 * [C. Generating the figure.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/nCoVSerialInterval2020/blob/master/scripts/C.%20Generating%20the%20figure.ipynb)
 
 **4. Additional details**
+* The folder **data** contains the supplementary table used for our analysis.
 * The folder **results** contains all constructed traceplots, as well as individual traces for the parameters of the distributions. As such, param1 & param2 in csv or pickle files are respectively the meanlog and sdlog for the lognormal distribution, the shape and inverse scale for the gamma distribution, and the shape and scale for the Weibull distribution. We followed the notation according to Stan manual (see the pages on [lognormal](https://mc-stan.org/docs/2_22/functions-reference/lognormal.html), [gamma](https://mc-stan.org/docs/2_22/functions-reference/gamma-distribution.html), and [Weibull](https://mc-stan.org/docs/2_22/functions-reference/weibull-distribution.html) distributions). The ```scipy.stats``` notation for each distribution follows the code: ```ss.lognorm(param2,scale=np.exp(param1))```, ```ss.gamma(param1,scale=1/param2)```, and ```ss.weibull_min(param1,scale=param2)```, respectively. Here ```ss``` and ```np``` are shortcuts for ```scipy.stats``` and ```numpy``` libraries in Python.
 
 
