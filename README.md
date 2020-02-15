@@ -2,7 +2,7 @@
 
 Supporting materials for Nishiura H, Linton NM, Akhmetzhanov AR 2020 "Serial interval of novel coronavirus (COVID-19) infections" *Submitted*
 
-Our notebooks repository can be divided on two groups:
+Our repository consists of the following parts:
 
 **1. Inference of the serial interval using only infector-infectee pairs identified from the literature with high certainty**
 * [A1. Stan simulations.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/nCoVSerialInterval2020/blob/master/scripts/A1.%20Stan%20simulations.ipynb) Code to run MCMC simulations in cmdStan
