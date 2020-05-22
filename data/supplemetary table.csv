@@ -1,4 +1,4 @@
-﻿,SIClassification,DiagnosisCountry,InfectorOnset,InfecteeOnset,EL,ER,SL,SR,Source
+﻿,SIClassification,DiagnosisCountry,InfectorOnset,InfecteeOnset,ER,EL,SL,SR,Source
 1,Certain,Vietnam,1/17/2020,1/20/2020,48,47,50,51,https://www.nejm.org/doi/full/10.1056/NEJMc2001272
 2,Probable,Vietnam,1/17/2020,1/19/2020,48,47,49,50,https://vietnaminsider.vn/vietnam-reports-a-new-case-of-coronavirus-infection-in-nha-trang/
 3,Certain,South Korea,1/22/2020,1/26/2020,53,52,56,57,https://www.e-epih.org/journal/view.php?number=1074
