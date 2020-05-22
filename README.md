@@ -41,8 +41,12 @@ Supporting materials for Nishiura H, Linton NM, Akhmetzhanov AR 2020 "Serial int
 
 
 Lognormal distribution as the best-fit model for certain and probable pairs with right truncation
-<p align="center" vertical-align="top">
+<p align="top">
   <img src="figures/C0-result.png" height="300" title="Result-1">
+</p>
+
+Correlating between param1 (*meanlog*) and param2 (*sdlog*)
+<p align="top">
   <img src="figures/C1-result.png" title="Result-2">
 </p>
 
