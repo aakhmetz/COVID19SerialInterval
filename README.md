@@ -27,7 +27,7 @@ Supporting materials for Nishiura H, Linton NM, Akhmetzhanov AR 2020 "Serial int
 *Without truncation*
 
 <p align="center">
-  <img src="figures/B1-model_selection.png" title="Model selection (certain and probable pairs w/o truncation)">
+  <img src="figures/B1-model_selection.png" height="90", title="Model selection (certain and probable pairs w/o truncation)">
 </p>
 
 *With right truncation*
