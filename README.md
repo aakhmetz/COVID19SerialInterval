@@ -20,7 +20,7 @@ Our repository consists of the following parts:
   <img src="figures/B-model selection.png" height="220" title="Model selection (certain pairs)">
 </p>
 
-**3. Generating Figure 1**
+**3.** Output
 * [C. Generating the figure.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/nCoVSerialInterval2020/blob/master/scripts/C.%20Generating%20the%20figure.ipynb)
 <p align="center">
   <img src="figures/Result.png" height="400" title="Best-fit distribution">
