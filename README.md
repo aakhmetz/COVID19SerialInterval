@@ -40,12 +40,17 @@ Supporting materials for Nishiura H, Linton NM, Akhmetzhanov AR 2020 "Serial int
 * [C. Generating the figure.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/nCoVSerialInterval2020/blob/master/scripts/C.%20Generating%20the%20figure.ipynb)
 
 
-Lognormal distribution as the best-fit model for certain and probable pairs with right truncation
+**Lognormal distribution as the best-fit model for certain and probable pairs with right truncation**
 <p align="top">
-  <img src="figures/C0-result.png" height="300" title="Result-1">
+  <img src="figures/C0a-result.png" title="Result-0">
 </p>
 
-Correlation between param1 (*meanlog*) and param2 (*sdlog*)
+**Parameters of the distribution**
+<p align="top">
+  <img src="figures/C0b-result.png" title="Result-1">
+</p>
+
+**Correlation between param1 (*meanlog*) and param2 (*sdlog*)**
 <p align="top">
   <img src="figures/C1-result.png" title="Result-2">
 </p>
