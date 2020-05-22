@@ -1,4 +1,4 @@
-# Estimation of the serial interval of novel coronavirus (COVID-19) infections 
+# Estimation of the serial interval of novel coronavirus (COVID-19) infections
 
 Supporting materials for Nishiura H, Linton NM, Akhmetzhanov AR 2020 "Serial interval of novel coronavirus (COVID-19) infections" International journal of infectious diseases 93: 284–6 ([doi:10.1016/j.ijid.2020.02.060](http://dx.doi.org/10.1016/j.ijid.2020.02.060))
 
@@ -45,7 +45,7 @@ Lognormal distribution as the best-fit model for certain and probable pairs with
   <img src="figures/C0-result.png" height="300" title="Result-1">
 </p>
 
-Correlating between param1 (*meanlog*) and param2 (*sdlog*)
+Correlation between param1 (*meanlog*) and param2 (*sdlog*)
 <p align="top">
   <img src="figures/C1-result.png" title="Result-2">
 </p>
